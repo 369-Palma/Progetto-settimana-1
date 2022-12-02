@@ -1,1 +1,11 @@
 /* Your styles here */
+<style>
+
+<!--GENERAL SELECTORS-->
+
+body{
+    margin: 10px auto;
+    pudding:2em;
+    max: width 450px;
+}
+</style>
