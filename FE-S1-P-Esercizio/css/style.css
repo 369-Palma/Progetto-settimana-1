@@ -4,12 +4,17 @@
         margin: 10px auto;
         max: width 450px;
       }
-      <!--HEADER-- > header {
-      }
+      <!--HEADER-- > 
+      
+       header {
+       }
       <!--NAV-- > .bottone button {
         color: orangered;
       }
       .backgroundimg {
         background-image: url(./FE-S1-P-Esercizio/images/banner.jpg);
       }
-    </style>
+      
+<!--MAIN-->
+
+</style>
