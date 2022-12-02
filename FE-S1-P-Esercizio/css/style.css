@@ -1,11 +1,15 @@
 /* Your styles here */
 <style>
-
-<!--GENERAL SELECTORS-->
-
-body{
-    margin: 10px auto;
-    pudding:2em;
-    max: width 450px;
-}
-</style>
+      body {
+        margin: 10px auto;
+        max: width 450px;
+      }
+      <!--HEADER-- > header {
+      }
+      <!--NAV-- > .bottone button {
+        color: orangered;
+      }
+      .backgroundimg {
+        background-image: url(./FE-S1-P-Esercizio/images/banner.jpg);
+      }
+    </style>
